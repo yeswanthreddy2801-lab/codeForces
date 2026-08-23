@@ -16,7 +16,6 @@ int main()
                 ind=i;
                 jnd=j;
             }
-            
         }
     }
     cout<<abs(ind-2)+abs(jnd-2);
