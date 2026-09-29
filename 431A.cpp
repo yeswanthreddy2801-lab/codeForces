@@ -13,7 +13,7 @@ int main()
     int ans=0;
     for(int i=0;i<n;i++)
     {
-        ans+=v[s[i]-1-48];
+        ans+=v[s[i]-1-48 ];
     }
     cout<<ans;
 }
