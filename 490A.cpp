@@ -63,8 +63,6 @@ int main()
             first++;
             second++;
             third++;
-
-        
     }
    
 }
